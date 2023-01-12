@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cord Powell</h1>
-<h3 align="center">A dedicated software developer from Oklahoma</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **FitStack**
 
