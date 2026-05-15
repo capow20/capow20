@@ -2,10 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **FitStack**
-
-- 🌱 I’m currently learning **PHP and Laravel**
-
 - 📫 How to reach me **capow20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
