@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP and Laravel**
 
-- 📫 How to reach me **cpowell25@uco.edu**
+- 📫 How to reach me **capow20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
