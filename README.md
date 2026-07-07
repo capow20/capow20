@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 📫 How to reach me **capow20@gmail.com**
+- 📫 How to reach me **cordapowell@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
